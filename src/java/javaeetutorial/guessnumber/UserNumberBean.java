@@ -4,7 +4,6 @@ import java.io.Serializable;
 import static java.lang.System.out;
 import java.util.Random;
 import javax.enterprise.context.SessionScoped;
-//import javax.faces.bean.SessionScoped;
 import javax.inject.Named;
 
 @Named
