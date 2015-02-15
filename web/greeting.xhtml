@@ -9,7 +9,12 @@
 
         <ui:composition template="./template.xhtml">
             <ui:define name="left">
-                <img src="http://localhost:8080/${facesContext.externalContext.requestContextPath}/duke.gif"/>
+ 
+
+
+                <ui:include src="/WEB-INF/includes/include.xhtml" />
+
+
             </ui:define>
             <ui:define name="content">
                 <h:form>
