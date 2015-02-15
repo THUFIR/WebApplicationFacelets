@@ -5,15 +5,10 @@ import static java.lang.System.out;
 import java.util.Random;
 import javax.enterprise.context.SessionScoped;
 //import javax.faces.bean.SessionScoped;
-//import javax.enterprise.context.RequestScoped;
 import javax.inject.Named;
 
-//@Name("calculator")
-//@Named("userNumberBean")
 @Named
-//@AutoCreate
 @SessionScoped
-//@ManagedBean(name = "userNumberBean")
 public class UserNumberBean implements Serializable {
 
     private static final long serialVersionUID = 5443351151396868724L;
