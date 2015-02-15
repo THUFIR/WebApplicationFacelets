@@ -8,8 +8,7 @@
     <body>
         <ui:composition >
             <h:form>
-                <h:graphicImage value="#{resource['images:wave.med.gif']}"
-                                alt="Duke waving his hand"/>
+                <ui:include src="/WEB-INF/includes/duke.xhtml" />
                 <h2>
                     Hi, my name is Duke. I am thinking of a number from
                     #{userNumberBean.minimum} to #{userNumberBean.maximum}.

@@ -7,8 +7,8 @@
       xmlns:f="http://xmlns.jcp.org/jsf/core">
     <body>
         <ui:composition >
-            <h:form>
-                <h:graphicImage value="#{resource['images:wave.med.gif']}" alt="Duke waving his hand"/>
+            <h:form>  
+                <ui:include src="/WEB-INF/includes/duke.xhtml" />
                 <h2>
                     <h:outputText id="result" value="#{userNumberBean.response}"/>
                 </h2>
