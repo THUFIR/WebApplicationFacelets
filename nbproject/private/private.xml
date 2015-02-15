@@ -3,9 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/thufir/NetBeansProjects/WebApplicationFacelets/web/WEB-INF/web.xml</file>
+            <file>file:/home/thufir/NetBeansProjects/WebApplicationFacelets/web/WEB-INF/includes/duke.xhtml</file>
             <file>file:/home/thufir/NetBeansProjects/WebApplicationFacelets/web/greeting.xhtml</file>
-            <file>file:/home/thufir/NetBeansProjects/WebApplicationFacelets/web/WEB-INF/includes/include.xhtml</file>
+            <file>file:/home/thufir/NetBeansProjects/WebApplicationFacelets/web/WEB-INF/facelets/template.xhtml</file>
+            <file>file:/home/thufir/NetBeansProjects/WebApplicationFacelets/web/response.xhtml</file>
+            <file>file:/home/thufir/NetBeansProjects/WebApplicationFacelets/web/WEB-INF/includes/question.xhtml</file>
+            <file>file:/home/thufir/NetBeansProjects/WebApplicationFacelets/web/WEB-INF/includes/answer.xhtml</file>
         </group>
     </open-files>
 </project-private>
